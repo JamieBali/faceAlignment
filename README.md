@@ -125,4 +125,9 @@ Shown in figure 9 are 4 different example images with the flower crowns added. I
   shapes, and light levels.</i>
 </p>
 
+## References
 
+[src] Source Code referenced throughout can be viewed as attached document or @  https://colab.research.google.com/drive/1BRPt9SnZGT7BKqBS5PODXH67tED0ROOS?usp=sharing<br>
+[1] X. Ciao , et al., Face Alignment by Explicit Shape Regression, Microsoft Research Asia, 2013, https://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf, Accessed 5th May 2021<br>
+[2] V. Kazemi and J. Sullivan, One Millisecond Face Alignment with an Ensemble of Regression Trees, KTH Royal Institute of Technology, Sweden, 2014, https://www.csc.kth.se/~vahidk/papers/KazemiCVPR14.pdf, Accessed 7th May 2021 <br>
+[3] J. Hao and T. J. Ho, Machine Learning Made Easy: A Review of SciKit-Learn Packagin in Python Programming Language, Journal of Educational and Behavioural Statistics, 2019, https://journals.sagepub.com/doi/full/10.3102/1076998619832248, Accessed 9th May 2021
